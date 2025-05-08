@@ -119,3 +119,38 @@ A well-defined wireframe in **Figma or Adobe XD**, showcasing **buttons, navigat
 
 🔹 If the wireframe **only includes basic shapes, placeholders, and minimal detail**, it is a **Low-Fidelity Wireframe**.  
 🔹 If the wireframe **resembles the final design, has colors, branding, and detailed elements**, it is a **High-Fidelity Wireframe**.  
+## **Wireframing Tools**  
+
+Wireframing tools help designers **visualize layouts, plan user interactions, and create prototypes** before final development.  
+These tools make it easy to design intuitive **UI/UX structures** while collaborating with teams.  
+
+---
+
+### **🔹 Popular Wireframing Tools**  
+
+✔ **Figma**  
+A cloud-based design tool that allows **real-time collaboration**, making it ideal for both low-fidelity and high-fidelity wireframes.  
+- Easy-to-use **drag-and-drop interface**.  
+- Supports **team collaboration**—multiple users can edit at the same time.  
+- Includes **built-in templates and design components**.  
+- Offers **interactive prototyping** for user flow testing.  
+
+✔ **Adobe XD**  
+Provides **powerful wireframing and prototyping** capabilities, allowing designers to create smooth, interactive designs.  
+- Has **vector-based wireframing features**.  
+- Supports **responsive design and prototyping**.  
+- Offers **integration with other Adobe Creative Suite tools**.  
+
+✔ **Balsamiq**  
+Best for **low-fidelity wireframes**, keeping designs simple and sketch-like for brainstorming ideas.  
+- Focuses on **quick sketching rather than detailed designs**.  
+- Ideal for **early-stage wireframing**.  
+- Helps teams **rapidly visualize concepts**.  
+
+✔ **Draw.io**  
+A free browser-based tool that helps create **basic wireframes and flowcharts** quickly.  
+- Simple **drag-and-drop functionality**.  
+- Works well for **basic UI planning**.  
+- No installation required—completely web-based.  
+
+---
