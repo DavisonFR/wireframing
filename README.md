@@ -77,3 +77,45 @@ A **login wireframe** includes a **username and password field**, a **‘Sign In
 - Ensures interactive elements **function properly**.  
 - Helps developers understand **user actions and system responses**.  
 - Creates a **smooth user experience** with easy interaction. 
+## **Types of Wireframes**  
+
+Wireframes are categorized into different levels of **detail and functionality**, depending on the **stage of the design process**. The two primary types are **Low-Fidelity** and **High-Fidelity** wireframes.  
+
+---
+
+### **🔹 1. Low-Fidelity Wireframes**  
+
+Low-fidelity wireframes are **basic sketches** that focus on structure and layout without detailed styling. They help designers and stakeholders visualize the **flow of the interface** before adding refined elements.  
+
+✔ **Used During:** Early-stage planning and brainstorming.  
+✔ **Purpose:** Quickly communicates ideas without worrying about colors or graphics.  
+✔ **Key Characteristics:**  
+   - Simple boxes, placeholders, and lines.  
+   - No colors, images, or advanced typography.  
+   - Focuses on functionality, layout, and navigation.  
+
+💡 **Example:**  
+A rough sketch on paper or a simple digital layout in **Draw.io** that outlines the **homepage sections**, like a **header, navigation bar, and content area**.  
+
+---
+
+### **🔹 2. High-Fidelity Wireframes**  
+
+High-fidelity wireframes are **detailed and refined versions** that closely resemble the final product. They provide a realistic view of **user interaction, styling, and design elements**.  
+
+✔ **Used During:** Mid-to-late stages of design before final UI development.  
+✔ **Purpose:** Defines how the product will **look and function**, with interactive elements.  
+✔ **Key Characteristics:**  
+   - Uses real images, colors, typography, and branding elements.  
+   - Includes detailed content placement and UI components.  
+   - May contain basic interactivity, like clickable buttons or dropdown menus.  
+
+💡 **Example:**  
+A well-defined wireframe in **Figma or Adobe XD**, showcasing **buttons, navigation menus, images, and detailed typography** for a **booking system interface**.  
+
+---
+
+## **What Type of Wireframe is Here?**  
+
+🔹 If the wireframe **only includes basic shapes, placeholders, and minimal detail**, it is a **Low-Fidelity Wireframe**.  
+🔹 If the wireframe **resembles the final design, has colors, branding, and detailed elements**, it is a **High-Fidelity Wireframe**.  
